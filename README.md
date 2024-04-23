@@ -1,5 +1,16 @@
 # GenAI
-Sample project to demonstrate GenAI usecases
+Sample project to demonstrate GenAI usecases.
+
+This way we can have dataset presented to the model and get insights into it by capturing the response either in a database table or output it to the screen. If we have capture the insights into the table it becomes easier to look for trends without having to write another logic. The best part is it can be integrated into an etl pipeline.
+
+#Requirements
+
+libraries:
+OpenAI
+
+API token : 
+Need to be generated from openAI portal . Have to upgrade the subscription to pay as you go and top up is needed to overcome api usage limit errors
+
 
 
 
