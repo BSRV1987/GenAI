@@ -3,7 +3,7 @@ Sample project to demonstrate GenAI usecases.
 
 This way we can have dataset presented to the model and get insights into it by capturing the response either in a database table or output it to the screen. If we capture the insights into the table it becomes easier to look for trends without having to write another logic. The best part is it can be integrated into an etl pipeline.
 
-#Requirements
+# Requirements
 
 libraries:
 OpenAI
@@ -11,8 +11,11 @@ OpenAI
 API token : 
 Need to be generated from openAI portal . Have to upgrade the subscription to pay as you go and top up is needed to overcome api usage limit errors
 
+# Further Ideas where this code can be extended To: 
 
-
+1. Collect logs from etl pipelines or from applications , pass the data set to the model to detect anamolies and publish the same
+2. Pass data from the past and prompt model for trends in the future
+3. GPT model can also be called to do code reviews via CI/CD pipeline and prompt to suggest modifications
 
 # Output from the code
 
