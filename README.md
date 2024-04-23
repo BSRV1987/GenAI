@@ -17,7 +17,7 @@ Need to be generated from openAI portal . Have to upgrade the subscription to pa
 2. Pass data from the past and prompt model for trends in the future
 3. GPT model can also be called to do code reviews via CI/CD pipeline and prompt to suggest modifications
 
-# Output from the code
+# Output from the code published in the repo
 
 <br>
 
