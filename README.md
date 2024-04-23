@@ -3,6 +3,8 @@ Sample project to demonstrate GenAI usecases
 
 
 
+# Output from the code
+
 <br>
 
 
