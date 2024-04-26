@@ -17,7 +17,7 @@ Need to be generated from openAI portal . Have to upgrade the subscription to pa
 2. Pass data from the past and prompt model for trends in the future
 3. GPT model can also be called to do code reviews via CI/CD pipeline and prompt to suggest modifications
 
-# Costs : 
+# OPENAI Costs : 
 
 Billing is made per api call and the number of tokens the input text is broken down into. <br>
 For example : This solutions has had 8 api calls with a total of 98,541 tokens and costs 0.05$
