@@ -19,7 +19,7 @@ Need to be generated from openAI portal . Have to upgrade the subscription to pa
 
 # OPENAI Costs : 
 
-Billing is made per api call and the number of tokens the input text is broken down into. <br>
+Billing is made per api call on the model we use and the number of tokens the input text is broken down into. <br>
 For example : This solutions has had 8 api calls with a total of 98,541 tokens and costs 0.05$
 
 # Output from the code published in the repo
