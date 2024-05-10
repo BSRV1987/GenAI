@@ -1,5 +1,5 @@
 # GenAI
-Sample project to demonstrate GenAI usecases.
+Sample project to demonstrate GenAI usecases and using API from LLM service provider
 
 A python file to call OpenAI API to prompt the model and get response. This way we can have dataset from .py file presented to the model and get insights into it by capturing the response either in a database table or output it to the screen. If we capture the insights into the table it becomes easier to look for trends without having to write another logic. The best part is it can be integrated into an etl pipeline.
 
